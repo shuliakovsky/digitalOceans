@@ -1,8 +1,12 @@
 #!/bin/bash
 
+# Digital Ocean's API documentation
+# https://developers.digitalocean.com/documentation/v2/
+
 # Requirments:
 # doctl -> https://github.com/digitalocean/doctl/releases
 # jq -> https://github.com/stedolan/jq/releases
+# curl -> https://github.com/curl/curl/releases
 
 # Settings
 #TOKEN='REPLACE_ME_WITH_REAL_TOKEN'
